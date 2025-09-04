@@ -4,6 +4,7 @@ Para esta actividad usaré el dataset **alimentos_nutrientes.csv** para la elabo
 
 **👩🏽‍💻 ¿QUÉ CONTIENE EL CÓDIGO?**
 
+
 1️⃣ Estudio de la NORMALIDAD de los datos.
 
 2️⃣ ESTADÍSTICAS DESCRIPTIVAS: media, desviación estándar, mediana, rango intercuartílico.
@@ -12,6 +13,9 @@ Para esta actividad usaré el dataset **alimentos_nutrientes.csv** para la elabo
 
 4️⃣ CONTRASTE DE HIPÓTESIS: ¿Existen diferencias en el IMC en función del sexo?
 
+
 Otros archivos generados:
+
  🗂️ R Markdown
+ 
  🗂️ HTML
